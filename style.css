@@ -1,0 +1,75 @@
+#red{
+    color: red;
+}
+#blue{
+    color: blue;
+}
+#green{
+    color: green;
+}
+#orange{
+    color: orange;
+}
+#yellow{
+    color: yellow;
+}
+#water-blue {
+    color: #5cb5e1;
+}
+#purple{
+    color: purple;
+}
+#pink{
+    color: pink;
+}
+#brown{
+    color:brown;
+}
+#black{
+    color: black;
+}
+#white{
+    color: white;
+}
+#gold{
+    color: gold;
+}
+#silver {
+    color: silver;
+}
+#r1{
+    color: red;
+}
+#r2{
+    color: orange;
+}
+#r3{
+    color: yellow;
+}
+#r4{
+    color: green;
+}
+#r5{
+    color: blue;
+}
+#r6{
+    color: purple;
+}
+#r7{
+    color: aqua;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+.color{
+    font-weight: normal;
+    display: inline;
+    margin: 0;
+    padding: 0;
+    
+}
+
+html {
+    background-color: #ecc8a2;
+}
